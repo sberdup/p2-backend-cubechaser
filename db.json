@@ -1,9 +1,9 @@
 { 
   "highscores":[
     {
-      "id" : 0,
       "player": "Sergio",
-      "score" : -1
+      "score" : -1,
+      "id" : 0
     }
   ]
 }
